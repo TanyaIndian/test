@@ -9,4 +9,3 @@ for(let i = 1; i<=num; i++)
 }
 
 
-(fact % 2 == 2)? console.log("it is a prime"):console.log("not a prime")
