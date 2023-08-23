@@ -8,4 +8,4 @@ for(let i = 1; i<=num; i++)
 }
 }
 
-
+fact==2 ? console.log("prime number"):console.log("not prime)
