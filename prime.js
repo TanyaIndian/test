@@ -8,4 +8,9 @@ for(let i = 1; i<=num; i++)
 }
 }
 
-
+if(fac===2){
+print prime number
+}
+else {
+print not prime 
+}
