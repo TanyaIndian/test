@@ -9,8 +9,8 @@ for(let i = 1; i<=num; i++)
 }
 
 if(fac===2){
-print prime number
+console.log("prime")
 }
 else {
-print not prime 
+   console.log("Not prime")
 }
